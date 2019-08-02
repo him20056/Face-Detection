@@ -1,0 +1,17 @@
+Python Face Recog
+
+to rrun main--- face_id.py
+
+to recog face and take images--- face_recog.py
+
+to train classifier---  face_trainer.py
+
+
+
+compt. prog
+https://www.youtube.com/playlist?list=PLS8ACsmFCpmRfJuOdV38zXFKWOna5vkgU
+
+
+ds and algo using python
+
+
